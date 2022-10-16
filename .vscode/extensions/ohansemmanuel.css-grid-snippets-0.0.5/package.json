@@ -1,0 +1,37 @@
+{
+	"name": "css-grid-snippets",
+	"displayName": "CSS Grid Snippets",
+	"description": "Code snippets for the CSS Grid layout",
+	"version": "0.0.5",
+	"publisher": "ohansemmanuel",
+	"engines": {
+		"vscode": "^1.8.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ohansemmanuel/css-grid-snippets.git"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "css",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"icon": "logo.png",
+	"galleryBanner.color": "#2C8FFE",
+	"__metadata": {
+		"id": "0a5b5b61-ac18-4036-9adc-d1a2549218b1",
+		"publisherId": "7a475042-d1fe-4de1-a624-1a4b6425a7bb",
+		"publisherDisplayName": "ohansemmanuel",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1651197075882
+	}
+}
