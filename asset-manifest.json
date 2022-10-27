@@ -1,15 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.733756dd.js",
+    "main.css": "/static/css/main.1959bff1.css",
+    "main.js": "/static/js/main.29821a64.js",
     "static/js/787.ae61a12f.chunk.js": "/static/js/787.ae61a12f.chunk.js",
+    "static/media/Anthropologie.png": "/static/media/Anthropologie.394570d5fd5d8ea1a028.png",
+    "static/media/anthcloth.png": "/static/media/anthcloth.c54ac56b64f7ea38046e.png",
+    "static/media/hindustan.png": "/static/media/hindustan.a362d1eb23cbbd6aedc0.png",
+    "static/media/hinduexplore.png": "/static/media/hinduexplore.3ed492aa09c426c6dcdd.png",
+    "static/media/indeeddes.png": "/static/media/indeeddes.61fccca1ec7161668c40.png",
+    "static/media/Home.png": "/static/media/Home.a7a6d588b0b2c2c1cb7b.png",
+    "static/media/hindustanpaymet.png": "/static/media/hindustanpaymet.6668c01847bea706a02e.png",
+    "static/media/antbasket.png": "/static/media/antbasket.53f3c3e73f9d9176c153.png",
+    "static/media/Post.png": "/static/media/Post.e98723f38eaa5df1b7d3.png",
+    "static/media/indeed.png": "/static/media/indeed.7db0649a6dfbab9dd425.png",
+    "static/media/indeedpost.png": "/static/media/indeedpost.480f7d791d6eae996342.png",
+    "static/media/Logout.png": "/static/media/Logout.13c0343592f25e97d76a.png",
+    "static/media/indeedlogin.png": "/static/media/indeedlogin.30b599c7147491d6216d.png",
+    "static/media/antpay.png": "/static/media/antpay.2e40e67961a3a5dc2515.png",
+    "static/media/hindustanlogin.png": "/static/media/hindustanlogin.fa70d8fd9c6f75c308b6.png",
+    "static/media/left.gif": "/static/media/left.e065a4c73b76fb78f026.gif",
+    "static/media/right.gif": "/static/media/right.6c43c6a0c330bcb598b6.gif",
+    "static/media/signin.png": "/static/media/signin.9d0e2a02c318050e5694.png",
+    "static/media/image.jpg": "/static/media/image.2ca4f8b9218a822dc4b7.jpg",
+    "static/media/youtube.svg": "/static/media/youtube.3e3a3669a4099bca7c60df03e4358713.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.733756dd.js.map": "/static/js/main.733756dd.js.map",
+    "main.1959bff1.css.map": "/static/css/main.1959bff1.css.map",
+    "main.29821a64.js.map": "/static/js/main.29821a64.js.map",
     "787.ae61a12f.chunk.js.map": "/static/js/787.ae61a12f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.733756dd.js"
+    "static/css/main.1959bff1.css",
+    "static/js/main.29821a64.js"
   ]
 }
