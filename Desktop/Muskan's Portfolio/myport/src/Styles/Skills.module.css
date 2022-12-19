@@ -1,0 +1,107 @@
+.frontEndSkills{
+
+    width: 200px;
+    height: 150px;
+    border: 1px solid rgb(96, 181, 230);
+    align-items: center;
+}
+.frontEndSection{
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    margin-left: 12%;
+    margin-top: 50px;
+}
+.skillsHeading{
+  
+    text-align: center;
+    text-decoration: underline;
+}
+.backendSkills{
+    width: 200px;
+        height: 150px;
+        border: 1px solid white;
+        align-items: center;
+}
+.backEndSection{
+    display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+        margin-left: 12%;
+        /* margin: auto; */
+   
+        margin-top: 50px;
+}
+.skillsHeadingBack{
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+  
+}
+.skillsHeading{
+    margin-top: 50px;
+}
+.SkillsSection{
+    display: block;
+    margin: auto;
+}
+.frontEndGrid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 50px;
+}
+.backEndGrid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 50px;
+}
+.skillsHeading{
+    text-align: justify;
+}
+@media screen and (max-width:1040px) {
+
+    .frontEndGrid{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 30px;
+    }
+    .frontEndBox{
+        width: 100%;
+
+    }
+
+     .backEndBox{
+        width: 100%;
+
+    }
+      .backEndGrid{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+          gap: 30px;
+    }
+    .mainStack{
+        width: 85%;
+        margin: auto;
+    }
+}
+@media screen and (max-width:450px) {
+    .skillsHeading{
+        text-align: center;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        font-size: 20px;
+    }
+    .frontEndGrid{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+    }
+  
+      .backEndGrid{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+    }
+}
+

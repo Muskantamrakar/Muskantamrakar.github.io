@@ -1,0 +1,22 @@
+.showProjects{
+    display: initial;
+}
+#projects{
+    padding-top: 350px;
+}
+.hideProjects{
+    display: none;
+}
+.show-button{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(96, 181, 230);
+    text-decoration:dashed;
+    cursor: pointer;
+}
+.main-heading{
+    font-size: 3rem;
+    text-align: justify;
+    padding: 5%;
+    margin-top: -10%;
+}

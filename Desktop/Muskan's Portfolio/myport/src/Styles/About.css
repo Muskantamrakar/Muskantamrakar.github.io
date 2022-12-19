@@ -1,0 +1,93 @@
+.aboutHeading{
+    color: white;
+    font-size: 50px;
+    width: 100%;
+}
+.profileImage{
+    width: 50%;
+    border-radius: 30%;
+    margin-left: 30%;
+}
+#about{
+       display: grid;
+       grid-template-columns: repeat(2,1fr);
+        gap: 50px;
+        padding-top: 250px;
+        margin-bottom: 100px;
+        width: 90%;
+        margin: auto;
+}
+.text-about{
+    text-align: justify;
+    font-size: 20px;
+    width: 130%;
+}
+@media screen and (max-width:1050px) {
+       #about{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            padding: 5px;
+            width: 90%;
+            margin: auto;
+        }
+    .profileImage{
+        width: 70%;
+        margin: auto;
+        margin-left: 15%;
+
+    }
+   
+    .text-about p{
+    text-align: justify;
+    width: 100%;
+    padding: 10px;
+    font-size: 2rem;
+    /* line-height: 20px; */
+    }
+    .aboutHeading{
+        margin-top: 5%;
+        margin-bottom: 2%;
+    }
+    .text-about {
+        text-align: justify;
+        padding: 10px;
+        width: 100%;
+       
+      
+    }
+}
+@media screen and (max-width:450px) {
+    #about {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: auto;
+        padding: 10px;
+        width: 90%;
+    }
+        .profileImage {
+            width: 80%;
+            margin: auto;
+            justify-content: center;
+            margin-left: 10%;
+        }
+     .text-about {
+         text-align: justify;
+        padding: 10px;
+    }
+    .text-about p {
+    text-align: justify;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 20px;
+    }
+}
+h1{
+    color: rgb(96, 181, 230);
+}
+.intro{
+    color: rgb(167, 208, 231);
+}
+.aboutHeading{
+    color: rgb(96, 181, 230);
+}
